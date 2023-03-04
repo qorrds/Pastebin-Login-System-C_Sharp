@@ -1,0 +1,11 @@
+C:\Users\qorrds\source\repos\C.Sharp-Pastebin_Auth\C.Sharp-Pastebin_Auth\bin\Debug\C.Sharp-Pastebin_Auth.exe.config
+C:\Users\qorrds\source\repos\C.Sharp-Pastebin_Auth\C.Sharp-Pastebin_Auth\bin\Debug\C.Sharp-Pastebin_Auth.exe
+C:\Users\qorrds\source\repos\C.Sharp-Pastebin_Auth\C.Sharp-Pastebin_Auth\bin\Debug\C.Sharp-Pastebin_Auth.pdb
+C:\Users\qorrds\source\repos\C.Sharp-Pastebin_Auth\C.Sharp-Pastebin_Auth\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\qorrds\source\repos\C.Sharp-Pastebin_Auth\C.Sharp-Pastebin_Auth\obj\Debug\C.Sharp-Pastebin_Auth.csproj.CoreCompileInputs.cache
+C:\Users\qorrds\source\repos\C.Sharp-Pastebin_Auth\C.Sharp-Pastebin_Auth\obj\Debug\C.Sharp-Pastebin_Auth.csproj.Fody.CopyLocal.cache
+C:\Users\qorrds\source\repos\C.Sharp-Pastebin_Auth\C.Sharp-Pastebin_Auth\obj\Debug\C.Sharp-Pastebin_Auth.csproj.CopyComplete
+C:\Users\qorrds\source\repos\C.Sharp-Pastebin_Auth\C.Sharp-Pastebin_Auth\obj\Debug\C.Sharp-Pastebin_Auth.exe
+C:\Users\qorrds\source\repos\C.Sharp-Pastebin_Auth\C.Sharp-Pastebin_Auth\obj\Debug\C.Sharp-Pastebin_Auth.pdb
+C:\Users\qorrds\source\repos\C.Sharp-Pastebin_Auth\C.Sharp-Pastebin_Auth\obj\Debug\C.Sharp_Pastebin_Auth.LoginForm.resources
+C:\Users\qorrds\source\repos\C.Sharp-Pastebin_Auth\C.Sharp-Pastebin_Auth\obj\Debug\C.Sharp-Pastebin_Auth.csproj.GenerateResource.cache
