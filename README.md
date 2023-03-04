@@ -6,4 +6,4 @@ You Can Download The Packages From Here ---> ''
 Simple C# Pastebin Login System
 
 
-![Screenshot](Pastebin-Login-System-C_Sharp/blob/main/Icons/Auth.png)
+![](Pastebin-Login-System-C_Sharp/blob/main/Icons/Auth.png)
