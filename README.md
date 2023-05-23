@@ -6,4 +6,4 @@ You Can Download The Packages From Here ---> 'https://dwnload.netlify.app/packag
 Simple C# Pastebin Login System
 
 
-![](Icons/Auth.png)
+![](Icons/png)
